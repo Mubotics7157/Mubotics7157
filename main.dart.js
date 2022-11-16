@@ -72857,23 +72857,23 @@ A.au9(c.b,s.c.r0(0,s.b.a9L(0,"phrases")))
 b=Math.abs(b.a.a/2-250)
 s=Math.abs(a/20-25)
 c=A.bo(d,A.de("Scouting Team #",d,d,d,d,A.lc(d,d,d,d,d,d,d,d,d,d,d,50,d,d,d,d,!0,d,d,d,d,d,d,d,d),d,d),d,d,d,d,new A.aD(b,s,0,0),d,d)
-r=a/35
-q=a/8
-p=A.fD(A.bo(d,A.NG(!0,B.aC,!1,d,e.at,d,d,d,2,A.JA(d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,"Robot Number",d,d,d,d,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),!0,d,!0,d,!1,d,d,d,d,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,q,new A.aD(b,Math.abs(r-12),0,0),d,300),1)
-o=a/30
-n=A.fD(A.bo(d,A.NG(!0,B.aC,!1,d,e.as,d,d,d,2,A.JA(d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,"Quals Number",d,d,d,d,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),!0,d,!0,d,!1,d,d,d,d,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,q,new A.aD(b,Math.abs(o-12),0,0),d,300),1)
-o=Math.abs(o-10)
-m=t.p
-l=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Made (AUTO)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.ag5(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.w),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.ag6(e),d),d)],m),B.u,B.b0,B.v,d),1)],m),B.u,B.Q,B.v,d),B.cH,d,d,q,new A.aD(b,o,0,0),d,250)
-o=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Missed (AUTO)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.ag7(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.x),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agb(e),d),d)],m),B.u,B.b0,B.v,d),1)],m),B.u,B.Q,B.v,d),B.cH,d,d,q,new A.aD(b,o,0,0),d,250)
-k=Math.abs(r-15)
-j=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Made (TELE HIGH)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.agc(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.e),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agd(e),d),d)],m),B.u,B.b0,B.v,d),1)],m),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,k,0,0),d,300)
-i=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Made (TELE LOW)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.age(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.f),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agf(e),d),d)],m),B.u,B.b0,B.v,d),1)],m),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,k,0,0),d,300)
-k=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Missed (TELE)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.agg(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.r),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agh(e),d),d)],m),B.u,B.b0,B.v,d),1)],m),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,k,0,0),d,300)
+r=a/8
+q=A.fD(A.bo(d,A.NG(!0,B.aC,!1,d,e.at,d,d,d,2,A.JA(d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,"Robot Number",d,d,d,d,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),!0,d,!0,d,!1,d,d,d,d,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,r,new A.aD(b,s,0,0),d,200),1)
+p=a/30
+o=A.fD(A.bo(d,A.NG(!0,B.aC,!1,d,e.as,d,d,d,2,A.JA(d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,"Quals Number",d,d,d,d,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),!0,d,!0,d,!1,d,d,d,d,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,r,new A.aD(b,Math.abs(p-12),0,0),d,300),1)
+p=Math.abs(p-10)
+n=t.p
+m=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Made (AUTO)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.ag5(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.w),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.ag6(e),d),d)],n),B.u,B.b0,B.v,d),1)],n),B.u,B.Q,B.v,d),B.cH,d,d,r,new A.aD(b,p,0,0),d,250)
+p=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Missed (AUTO)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.ag7(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.x),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agb(e),d),d)],n),B.u,B.b0,B.v,d),1)],n),B.u,B.Q,B.v,d),B.cH,d,d,r,new A.aD(b,p,0,0),d,250)
+l=a/35
+k=Math.abs(l-15)
+j=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Made (TELE HIGH)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.agc(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.e),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agd(e),d),d)],n),B.u,B.b0,B.v,d),1)],n),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,k,0,0),d,300)
+i=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Made (TELE LOW)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.age(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.f),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agf(e),d),d)],n),B.u,B.b0,B.v,d),1)],n),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,k,0,0),d,300)
+k=A.bo(d,A.dP(A.b([A.fD(A.de("Shots Missed (TELE)",d,d,d,d,d,d,d),1),A.fD(A.eS(A.b([new A.bY(1,B.G,A.eB(B.dQ,new A.agg(e),d),d),new A.bY(1,B.G,A.de(B.f.j(e.r),d,d,d,d,d,d,d),d),new A.bY(1,B.G,A.eB(B.dP,new A.agh(e),d),d)],n),B.u,B.b0,B.v,d),1)],n),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,k,0,0),d,300)
 h=e.d
 g=A.bo(d,d,B.n,d,d,2,d,d,d)
 f=t.fo
-return A.ao9(!0,A.Mm(d,A.dP(A.b([new A.bY(1,B.G,c,d),p,n,new A.bY(1,B.G,l,d),new A.bY(1,B.G,o,d),new A.bY(1,B.G,j,d),new A.bY(1,B.G,i,d),new A.bY(1,B.G,k,d),new A.bY(1,B.G,A.bo(d,A.dP(A.b([B.Cd,new A.ri(A.ab(new A.aa(B.na,new A.agi(),f),!0,f.i("aq.E")),h,new A.ag8(e),16,B.cf,g,B.Cz,d,t.Af)],m),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,s,0,0),d,300),d),A.fD(A.bo(d,A.NG(!0,B.aC,!1,d,e.z,d,d,d,2,B.CQ,!0,d,!0,d,!1,d,A.b([$.aqa()],t.VS),d,B.vE,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,q,new A.aD(b,Math.abs(a/75-8),0,0),d,300),1),new A.bY(1,B.G,A.bo(d,A.NG(!0,B.aC,!1,d,e.ax,d,d,d,2,A.JA(d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,"Leave A Comment",d,d,d,d,!1,d,d,d,d,d,d,d,d,d,d,d,d,A.Js(d,B.mX,d,new A.ag9(e),d),d,d,d,d),!0,d,!0,d,!1,d,d,d,d,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,100,new A.aD(b,Math.abs(r-25),0,0),d,500),d)],m),B.u,B.b0,B.v,d),A.e1(A.ang(A.bo(d,A.eB(B.vK,new A.aga(a1),d),B.aD,d,d,100,d,d,500)),40,d),d),d,"")},
+return A.ao9(!0,A.Mm(d,A.dP(A.b([new A.bY(1,B.G,c,d),q,o,new A.bY(1,B.G,m,d),new A.bY(1,B.G,p,d),new A.bY(1,B.G,j,d),new A.bY(1,B.G,i,d),new A.bY(1,B.G,k,d),new A.bY(1,B.G,A.bo(d,A.dP(A.b([B.Cd,new A.ri(A.ab(new A.aa(B.na,new A.agi(),f),!0,f.i("aq.E")),h,new A.ag8(e),16,B.cf,g,B.Cz,d,t.Af)],n),B.u,B.Q,B.v,d),B.cH,d,d,125,new A.aD(b,s,0,0),d,300),d),A.fD(A.bo(d,A.NG(!0,B.aC,!1,d,e.z,d,d,d,2,B.CQ,!0,d,!0,d,!1,d,A.b([$.aqa()],t.VS),d,B.vE,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,r,new A.aD(b,Math.abs(a/75-8),0,0),d,300),1),new A.bY(1,B.G,A.bo(d,A.NG(!0,B.aC,!1,d,e.ax,d,d,d,2,A.JA(d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,"Leave A Comment",d,d,d,d,!1,d,d,d,d,d,d,d,d,d,d,d,d,A.Js(d,B.mX,d,new A.ag9(e),d),d,d,d,d),!0,d,!0,d,!1,d,d,d,d,d,d,1,d,d,!1,"\u2022",d,d,d,d,!1,d,d,B.dd,d,d,d,d,d,d,d,B.aG,d,B.dM,d,d,d),d,d,d,100,new A.aD(b,Math.abs(l-25),0,0),d,500),d)],n),B.u,B.b0,B.v,d),A.e1(A.ang(A.bo(d,A.eB(B.vK,new A.aga(a1),d),B.aD,d,d,100,d,d,500)),40,d),d),d,"")},
 p(a){var s=this,r=s.z,q=r.x1$=$.aV()
 r.to$=0
 r=s.Q
